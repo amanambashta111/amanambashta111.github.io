@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/amanambashta111.github.io/static/css/main.19c749f6.chunk.css",
+    "main.js": "/amanambashta111.github.io/static/js/main.215ee93a.chunk.js",
+    "main.js.map": "/amanambashta111.github.io/static/js/main.215ee93a.chunk.js.map",
+    "runtime-main.js": "/amanambashta111.github.io/static/js/runtime-main.64167985.js",
+    "runtime-main.js.map": "/amanambashta111.github.io/static/js/runtime-main.64167985.js.map",
+    "static/js/2.043ec015.chunk.js": "/amanambashta111.github.io/static/js/2.043ec015.chunk.js",
+    "static/js/2.043ec015.chunk.js.map": "/amanambashta111.github.io/static/js/2.043ec015.chunk.js.map",
+    "static/js/3.705f3d22.chunk.js": "/amanambashta111.github.io/static/js/3.705f3d22.chunk.js",
+    "static/js/3.705f3d22.chunk.js.map": "/amanambashta111.github.io/static/js/3.705f3d22.chunk.js.map",
+    "index.html": "/amanambashta111.github.io/index.html",
+    "static/css/main.19c749f6.chunk.css.map": "/amanambashta111.github.io/static/css/main.19c749f6.chunk.css.map",
+    "static/js/2.043ec015.chunk.js.LICENSE.txt": "/amanambashta111.github.io/static/js/2.043ec015.chunk.js.LICENSE.txt",
+    "static/media/Cassava-Plant.a5d3a8da.webp": "/amanambashta111.github.io/static/media/Cassava-Plant.a5d3a8da.webp",
+    "static/media/developer.8f1d8337.gif": "/amanambashta111.github.io/static/media/developer.8f1d8337.gif",
+    "static/media/messenger.faf4114d.png": "/amanambashta111.github.io/static/media/messenger.faf4114d.png",
+    "static/media/toDoList.1f3d33c4.jpg": "/amanambashta111.github.io/static/media/toDoList.1f3d33c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64167985.js",
+    "static/js/2.043ec015.chunk.js",
+    "static/css/main.19c749f6.chunk.css",
+    "static/js/main.215ee93a.chunk.js"
+  ]
+}
